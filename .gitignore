@@ -1,0 +1,10 @@
+*.ipynb_checkpoints
+__pycache__/
+.DS_Store
+/data/*
+/models/*
+*.csv
+*.txt
+*.zip
+*.pickle
+.env
